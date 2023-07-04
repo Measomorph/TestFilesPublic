@@ -4,29 +4,28 @@
  * change to this file will get overwritten with a theme applied using
  * Site Styling panel from Power Apps Portals.
  */
-:root {
-  --portalThemeColor1: #731be3;
-  --portalThemeColor2: #7a649c;
-  --portalThemeColor3: #C8C8C8;
-  --portalThemeColor4: #73502d;
-  --portalThemeColor5: #F4FCFE;
-  --portalThemeColor6: #63D7F7;
-  --portalThemeColor7: #E8272F;
-  --portalThemeColor8: #425cb8;
-  --portalThemeColor9: #005E86;
-  --portalThemeColor10: #626161;
+  --portalThemeColor1: #2E456B;
+  --portalThemeColor2: #FFCA4B;
+  --portalThemeColor3: #277493;
+  --portalThemeColor4: #FEA002;
+  --portalThemeColor5: #F3DBB1;
+  --portalThemeColor6: #88ABA2;
+  --portalThemeColor7: #ffffff;
+  --portalThemeColor8: #2A2C2E;
+  --portalThemeColor9: #E58700;
+  --portalThemeColor10: ;
   --portalThemeColor11: ;
   --portalThemeColor12: ;
-  --portalThemeOnColor1: #731be3;
-  --portalThemeOnColor2: #7a649c;
-  --portalThemeOnColor3: #C8C8C8;
-  --portalThemeOnColor4: #73502d;
-  --portalThemeOnColor5: #425cb8;
-  --portalThemeOnColor6: #425cb8;
-  --portalThemeOnColor7: #425cb8;
-  --portalThemeOnColor8: #E8272F;
-  --portalThemeOnColor9: #E8272F;
-  --portalThemeOnColor10: #E8272F;
+  --portalThemeOnColor1: #ffffff;
+  --portalThemeOnColor2: #2A2C2E;
+  --portalThemeOnColor3: #ffffff;
+  --portalThemeOnColor4: #2A2C2E;
+  --portalThemeOnColor5: #2A2C2E;
+  --portalThemeOnColor6: #2A2C2E;
+  --portalThemeOnColor7: #2A2C2E;
+  --portalThemeOnColor8: #ffffff;
+  --portalThemeOnColor9: #2A2C2E;
+  --portalThemeOnColor10: ;
   --portalThemeOnColor11: ;
   --portalThemeOnColor12: ; }
 
