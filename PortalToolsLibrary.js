@@ -1,8 +1,5 @@
-// Import jQuery
-import $ from 'jquery';
-
 // Function to disable a specific lookup
-export function disableLookup(id){
+function disableLookup(id){
     // Disable the element with the given ID
     $("#" + id).attr("disabled","disabled");
 
@@ -14,7 +11,7 @@ export function disableLookup(id){
 }
 
 // Function to hide all elements with a specific class
-export function hideElementsByClass(className){
+function hideElementsByClass(className){
     // Hide all elements with the given class
     $("." + className).hide();
 }
